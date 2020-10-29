@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Yadwal Magheshwari](https://github.com/sudalaimaghesh)
+- Place: Navi Mumbai, India
+- Bio: Information Technology post graduate student
+- GitHub: [sudalaimaghesh](https://github.com/sudalaimaghesh)
